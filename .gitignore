@@ -1,7 +1,7 @@
 /infrastructure/.terraform.lock.hcl
 /infrastructure/.terraform
 /infrastructure/terraform.tfstate*
-/certs/*.crt
-/certs/*.key
-/certs/*.pem
-/certs/*.csr
+/infrastructure/certs/*.crt
+/infrastructure/certs/*.key
+/infrastructure/certs/*.pem
+/infrastructure/certs/*.csr
