@@ -5,3 +5,4 @@
 /infrastructure/certs/*.key
 /infrastructure/certs/*.pem
 /infrastructure/certs/*.csr
+/.idea
